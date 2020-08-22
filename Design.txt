@@ -1,0 +1,16 @@
+*** Design ***
+
+Paleta de cores: - Azul ciano / branco / preto
+
+Fonte: 		 - Times New Roman
+
+Fundo:		 - Branco 
+
+Buttons:	 - Azul
+
+Letras: 	 - Preto
+
+Telas de Loading:- Terá um carrinho viajando nas nuvens enquanto o site/app carrega 
+
+Software:	 - Photoshop/Ninja Mock
+
